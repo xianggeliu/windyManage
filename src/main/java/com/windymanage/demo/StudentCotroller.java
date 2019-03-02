@@ -23,7 +23,7 @@ public class StudentCotroller {
     }
 
     /**
-     * 根据uuid 获取学生信息
+     * 根据uuid 获取学生信息11
      * @return
      */
     @GetMapping("/getStudent")
