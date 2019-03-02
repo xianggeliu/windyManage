@@ -19,4 +19,9 @@ public class HelloController {
     public String say(@RequestParam( value = "pp" , required = false , defaultValue = "我是牛") String pp){
         return "pp :" + pp;
     }
+
+    @GetMapping(value = "hehe")
+    public String testDemo(){
+        return null;
+    }
 }
