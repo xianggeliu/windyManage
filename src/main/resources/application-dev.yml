@@ -1,0 +1,11 @@
+server:
+  port:  8088
+  servlet:
+    context-path: /windy
+ ##变量
+cupSize: 哇咔咔
+
+student:
+   age: 18
+   name: 王小小
+   gender: 男

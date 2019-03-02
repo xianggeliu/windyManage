@@ -1,0 +1,6 @@
+server:
+  port:  8088
+  servlet:
+    context-path: /windy
+ ##变量
+cupSize: 哇咔咔
