@@ -22,4 +22,13 @@ public class StudentCotroller {
         return null;
     }
 
+    /**
+     * 根据uuid 获取学生信息
+     * @return
+     */
+    @GetMapping("/getStudent")
+    public String  getStudent(){
+        return null;
+    }
+
 }
